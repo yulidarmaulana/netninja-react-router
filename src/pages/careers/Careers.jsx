@@ -3,6 +3,7 @@ import { Link, useLoaderData } from "react-router-dom"
 export default function Careers() {
 
     const careers = useLoaderData();
+    console.log(careers)
 
     return (
         <>
