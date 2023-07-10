@@ -25,7 +25,7 @@ export const careerDetailsLoader = async ({ params }) => {
   const { id } = params
   let data;
 
-  const res = await fetch('https://yulidarmaulana.github.io/netninja-react-router/data/db.json')
+    await fetch('https://yulidarmaulana.github.io/netninja-react-router/data/db.json')
     .then((res) => res.json())
     .then((res) => data = res)
   // const res = await fetch('https://649f60ee245f077f3e9d85dc.mockapi.io/api/v1/' + id)
