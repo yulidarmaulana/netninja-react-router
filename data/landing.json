@@ -1,0 +1,25 @@
+{
+    "landing": [
+      {
+        "id": 1,
+        "title": "PPID Vokasi",
+        "img": "img",
+        "desc": "landing page",
+        "link": "https://www.vokasi.kemdikbud.go.id/ppid/"
+      },
+      {
+        "id": 2,
+        "title": "PPID Marves",
+        "img": "images",
+        "desc": "landing page",
+        "link": "https://ministry.phicos.co.id/front/PPID-Marves/"
+      },
+      {
+        "id": 3,
+        "title": "BAPPEDA Ekonomi Surakarta",
+        "img": "images",
+        "desc": "landing page",
+        "link": "https://egov.phicos.co.id/surakarta/ekonomi/"
+      }
+    ]
+  }
