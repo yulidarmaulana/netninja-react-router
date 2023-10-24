@@ -10,8 +10,8 @@ export default function Home() {
       <div className="">
         <div className="max-w-md rounded overflow-hidden shadow-lg bg-slate-800">
           <img
-            className="w-full h-48 p-4"
-            src="/public/vite.svg"
+            className="w-full h-full p-4 "
+            src="https://images.unsplash.com/photo-1682686579688-c2ba945eda0e?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMDZ8fHxlbnwwfHx8fHw%3D"
             alt=""
           />
           <div className="px-6 py-4">
